@@ -1,7 +1,7 @@
-<p align="center" style="font-size:2.5rem; margin-bottom:0.5rem;">Hi! I'm Guilherme</p>
+<h1 align="center">Hi! I'm Guilherme</h1>
 
-<p align="center" style="font-size:1.5rem; margin-bottom:0;"> I'm a passionate Software Engineer from Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Flag of Brazil" width="2%" height="2%" /> </p>
-<p align="center" style="font-size:1rem; margin-top:0.5rem;"> I have a Bachalor's degree in Informations Systems from <a href="">USP</a> and I currently work at <a href="https://www.itau.com.br">Itaú</a>. </p>
+<h2 align="center"> I'm a passionate Software Engineer from Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Flag of Brazil" width="2%" height="2%" /> </h2>
+<h3 align="center"> I have a Bachalor's degree in Informations Systems from <a href="">USP</a> and I currently work at <a href="https://www.itau.com.br">Itaú</a>. </h3>
 
 <h2> Connect with me </h2>
 
