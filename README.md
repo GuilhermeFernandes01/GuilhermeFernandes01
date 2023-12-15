@@ -9,7 +9,7 @@
 
 ---
 
-<h3> Tech Stack </h3>
+<h2> Tech Stack </h2>
 
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](http://www.typescriptlang.org/)
